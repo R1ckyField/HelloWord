@@ -1,1 +1,4 @@
-prin("Hello, World!")
+print("Hello, World!")
+
+
+nome = input(Digite seu nome: )
